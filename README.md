@@ -3277,7 +3277,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
   [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
   🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
-- [Corrie](https://corrie.io/mcp-server) `https://corrie.io/mcp`
+- [Corrie](https://corrie.io/docs/mcp-server) `https://corrie.io/mcp`
   [![Corrie MCP connector](https://glama.ai/mcp/connectors/io.corrie/site-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.corrie/site-check)
   🔓 - Check any public site's HTTPS, TLS certificate, security headers and uptime, with plain-English fixes.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
